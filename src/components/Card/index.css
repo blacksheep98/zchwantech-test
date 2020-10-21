@@ -1,0 +1,27 @@
+.card {
+  background-color: transparent;
+}
+
+.img-style {
+  width: auto;
+  margin: 0 auto;
+  width: 300px;
+  height: 210px;
+  padding: 2% 2% 0 2% !important;
+}
+
+.card-content {
+  margin: 0;
+  padding: 0 0 0 2%;
+  text-align: left !important;
+}
+
+.card-title,
+.card-subtitle {
+  margin: 2% 2% 2% 0;
+}
+
+.card-subtitle {
+  font-size: 13px;
+  color: grey;
+}
