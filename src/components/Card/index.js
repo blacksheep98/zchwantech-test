@@ -10,7 +10,7 @@ export default class TechCard extends PureComponent {
         <div className="card-image">
           <img
             src={item.image}
-            alt={item.alt || item.title}
+            alt={item.alt}
             className="img-style"
           />
         </div>
